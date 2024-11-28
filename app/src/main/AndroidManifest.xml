@@ -13,7 +13,10 @@
         android:theme="@style/Theme.Modul7LocalDatabaseMobile"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".AddHomeworkActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeworkActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

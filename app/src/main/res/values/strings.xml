@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Modul 7 Local Database Mobile</string>
+    <string name="date">date</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="submit">SUBMIT</string>
 </resources>
